@@ -1,0 +1,20 @@
+.game-field {
+    margin: auto;
+}
+
+.game-field tr {
+    height: 50px;
+}
+
+.game-field td {
+    width: 50px;
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial;
+}
+
+.button-start {
+    border: 1px solid #666;
+    background-color: #999;
+    border-radius: 5px;
+}

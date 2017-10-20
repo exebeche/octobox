@@ -1,3 +1,4 @@
 # octobox
-trying to study git and github
-Well, looks like I've got the clue how it's working.
+Here are a new star rising above the world of routine and daily accustomed stuff .
+Meet a legend, meet "tick-tack-toe"!
+The game of a century!

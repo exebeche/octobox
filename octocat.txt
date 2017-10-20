@@ -1,3 +1,0 @@
-# octobox
-trying to study git and github
-<p>Хорошо живет на свете Винни-Пух от того поет он эти песни вслух.</p>
